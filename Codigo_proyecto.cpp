@@ -75,7 +75,7 @@ public:
 };
 
 int main() {
-    MySQLConnector connector("localhost", "root", "30072002P@blo_", "black");
+    MySQLConnector connector("localhost", "root", "123456789", "black");
 
     int opcion;
     string query;
