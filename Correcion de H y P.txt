@@ -1,0 +1,3 @@
+Se hicieron cambios en los códigos que contenían la herencia y el polimorfismo ya 
+que daban error a la hora de implementar el método para mostrar las otras 
+tablas ya que el código estaba adaptado solo para la tabla clientes
